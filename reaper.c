@@ -434,10 +434,10 @@ int main(void) {
 
 	printf("\n\e[0;31m[Username]#> ");
 	scanf("%s", username);
-	if (strcmp(username, "admin") == 0) {
+	if (strcmp(username, ADMIN_ACCOUNT) == 0) {
 		printf("\n\e[0;31m[Password]#> ");
-		scanf("%s", username);
-		if (strcmp(username, "reaper") == 0) {
+		scanf("%s", password);
+		if (strcmp(password, ADMIN_PASSWORD) == 0) {
 			printf("\n[Authenticated Successfully!]\n");
 			printf("\n[!] Before you can access the interface, you must have atleast one device connected. [!]\n");			
 			free(username);
