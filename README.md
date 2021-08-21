@@ -17,18 +17,18 @@
 </p>
 
 ## Why?
+
 Here are few reasons why I made this:
+```
 	- I wanted to learn more about botnets.
-	
 	- I wanted to make something that will help other people understand and learn more about botnets.
-	
 	- Most botnets that are available on github are all variants of mirai or qbot, so I wanted to make my own from scratch.
-
+```
 Extra Facts:
+```
 	- Yes, I know, I could've used epoll, but I didn't want to make things super-complicated and annoying.
-	
 	- No, this does not contain any DDoS methods, If you want to customize this and add your own, then you are free to do so.
-
+```
 ## Credits
 ```
 https://github.com/0x1CA3
