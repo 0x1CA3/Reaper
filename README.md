@@ -41,7 +41,7 @@ After you have authenticated with the botnet and are waiting for connections, ru
 
 ## Screenshots
 ![Screenshot_2021-08-21-05-36-18_922x559](https://user-images.githubusercontent.com/86132648/130317740-f9882527-6632-4529-b776-dd224e7bc6ef.png)
-![Screenshot_2021-08-18-06-41-40_893x237](https://user-images.githubusercontent.com/86132648/130317747-3e312623-450b-4a04-8bad-a9ebe8247491.png)
+![Screenshot_2021-08-21-05-01-41_816x262](https://user-images.githubusercontent.com/86132648/130334806-4fe08963-f442-4104-bd5a-0f6c7b1b3741.png)
 
 ## Credits
 ```
