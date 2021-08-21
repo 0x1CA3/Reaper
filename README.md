@@ -22,7 +22,7 @@ Here are few reasons why I made this:
 ```
 - I wanted to learn more about botnets.
 - I wanted to make something that will help other people understand and learn more about botnets.
-- Most botnets that are available on github are all variants of mirai or qbot, so I wanted to make my own from scratch.
+- I wanted to make my own from scratch, because most botnets that are available on github are all variants of mirai or qbot.
 ```
 Extra Facts:
 ```
