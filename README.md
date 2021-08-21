@@ -15,3 +15,10 @@
     	<img src="https://img.shields.io/badge/Deno-1.0.0+-7DCDE3?style=for-the-badge" alt="Node">
      </a>
 </p>
+
+## Credits
+```
+https://github.com/0x1CA3
+```
+### Contributions 🎉
+###### All contributions are accepted, simply open an Issue / Pull request.
