@@ -3,7 +3,7 @@
     Reaper - An ADB-based botnet written in C.
 </h1>
 <p align="center">
-	Reaper is an ADB-based botnet that lets control the devices you infect, execute commands, and contains extra tools for playing around. It isn't just limited 
+	Reaper is an ADB-based botnet that lets you control the devices you infect, execute commands, and contains extra tools for playing around. It isn't just limited 
 	to ADB, it can be used as a telnet botnet, or a regular botnet.
 </p>
 
